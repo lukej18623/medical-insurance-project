@@ -1,3 +1,3 @@
 # medical-insurance-project
-Used pandas to parse through csv file 
+Used Pandas to conduct queries on csv file
 
